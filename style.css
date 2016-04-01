@@ -1,0 +1,36 @@
+header {
+    background-color: CaptionText;
+    height: 600px;
+    width: 150px;
+}
+nav {
+    background-color: beige;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    padding-top: 1%
+}
+section {
+    background-color: beige;
+    height: 438px;
+    width: 100%;
+}
+h2 {
+    color: #B22222;
+}
+.conteneur {
+    display: flex;
+}
+.haut {
+    vertical-align: baseline;
+}
+.element {
+    display: flex;
+    text-align: left;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.image {
+    float: right;
+    padding: 1% 1% 1% 0%;
+}
